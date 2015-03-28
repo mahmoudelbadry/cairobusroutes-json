@@ -1,6 +1,8 @@
 ###cairobusroutes
 This is the cairo bus routes data of the [cairobusroutes](http://cairobusroutes.com/) website in json format, also included is the scraper used to get the data from the website.
 ###Usage
+You can use the JSON files in the [data](https://github.com/mahmoudelbadry/cairobusroutes-json/tree/master/data) directory of the project if you don't want to fiddle with the scraper
+If you want to use the scraper, you can follow these instructions:
 * First clone the repository
 ```
 git clone https://github.com/mahmoudelbadry/cairobusroutes-json
@@ -13,7 +15,7 @@ npm install
 ```
 node index.js
 ```
-this will save the [data](https://github.com/mahmoudelbadry/cairobusroutes-json/tree/master/data) directory,
+this will save the data in the [data](https://github.com/mahmoudelbadry/cairobusroutes-json/tree/master/data) directory,
 with each route having a json file, and an [all.json](https://github.com/mahmoudelbadry/cairobusroutes-json/tree/master/data/all.json) containing all the bus routes
 
 ###Data Format
