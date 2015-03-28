@@ -1,0 +1,755 @@
+[
+    {
+        "number": "121",
+        "route": [
+            {
+                "stop": "Ezbet al-Hagana",
+                "neighbourhood": "Ezbet al-Hagana"
+            },
+            {
+                "stop": "al-Ahly Sporting Club",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Higher Institute of Social Service",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Top of Makram Abeed Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Top of Abbas al-Aaqad Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Saleh Salem Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Tayaran Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Abd al-Monaam Riad Square (Tahrir)",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "26th July Street",
+                "neighbourhood": "Zamalek"
+            },
+            {
+                "stop": "Sphinx Square",
+                "neighbourhood": "Mohandiseen"
+            },
+            {
+                "stop": "Gamaat al-Duwal Street",
+                "neighbourhood": "Mohandiseen"
+            },
+            {
+                "stop": "Boulaq al-Dakrour",
+                "neighbourhood": "Boulaq al-Dakrour"
+            }
+        ]
+    },
+    {
+        "number": "381",
+        "route": [
+            {
+                "stop": "Imbaba",
+                "neighbourhood": "Imbaba"
+            },
+            {
+                "stop": "Kit Kat",
+                "neighbourhood": "Kit Kat"
+            },
+            {
+                "stop": "26th July Street",
+                "neighbourhood": "Zamalek"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Ghamra"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Central Auditing Organisation",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Saleh Salem Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Baron Palace",
+                "neighbourhood": "Heliopolis"
+            },
+            {
+                "stop": "Cairo Airport",
+                "neighbourhood": "Cairo Airport"
+            }
+        ]
+    },
+    {
+        "number": "66",
+        "route": [
+            {
+                "stop": "Eighth District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Mustafa al-Nahhas Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "El Manhal",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Rabaa Square",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Saleh Salim Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Abd al-Monaam Riad Square (Tahrir)",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "26th July Street",
+                "neighbourhood": "Zamalek"
+            },
+            {
+                "stop": "Kit Kat",
+                "neighbourhood": "Kit Kat"
+            },
+            {
+                "stop": "Student City",
+                "neighbourhood": "Student City"
+            }
+        ]
+    },
+    {
+        "number": "25",
+        "route": [
+            {
+                "stop": "El-Shrouq Housing",
+                "neighbourhood": "Ezbet al-Hagana"
+            },
+            {
+                "stop": "al-Ahly Sporting Club",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Ahmed Fakhry",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Top of Makram Abeed Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Top of Abbas al-Aaqad Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Rabaa Square",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Railroad Club",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Ghamra"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Tahrir Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Qasr el-Nile Bridge",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Opera",
+                "neighbourhood": "Gezira"
+            },
+            {
+                "stop": "Galaa Square",
+                "neighbourhood": "Dokki"
+            },
+            {
+                "stop": "Sheraton Hotel",
+                "neighbourhood": "Dokki"
+            },
+            {
+                "stop": "Giza Zoo",
+                "neighbourhood": "Giza"
+            }
+        ]
+    },
+    {
+        "number": "132",
+        "route": [
+            {
+                "stop": "Garden City",
+                "neighbourhood": "Garden City"
+            },
+            {
+                "stop": "Tahrir Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Abasseya",
+                "neighbourhood": "Abasseya"
+            },
+            {
+                "stop": "Saleh Salem",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Tayaran Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Nour Khattab",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Mustafa al-Nahhas Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Eighth District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Tenth District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Zahra’ Nasr City",
+                "neighbourhood": "Zahra’ Nasr City"
+            }
+        ]
+    },
+    {
+        "number": "158",
+        "route": [
+            {
+                "stop": "Abd al-Monim Riad Square (Tahrir Bus Station)",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Abasseya",
+                "neighbourhood": "Abasseya"
+            },
+            {
+                "stop": "Ain Shams University",
+                "neighbourhood": "Ain Shams University"
+            },
+            {
+                "stop": "El-Qobba Bridge",
+                "neighbourhood": "El-Qobba Bridge"
+            },
+            {
+                "stop": "Al-Suez Bridge (Gesr al-Suez)",
+                "neighbourhood": "Ain Shams"
+            },
+            {
+                "stop": "Tagneed",
+                "neighbourhood": "Ain Shams"
+            },
+            {
+                "stop": "Elf Maskin",
+                "neighbourhood": "Ain Shams"
+            },
+            {
+                "stop": "Cairo Airport",
+                "neighbourhood": "Cairo Airport"
+            }
+        ]
+    },
+    {
+        "number": "82",
+        "route": [
+            {
+                "stop": "Giza Square",
+                "neighbourhood": "Giza"
+            },
+            {
+                "stop": "Cairo University",
+                "neighbourhood": "Giza"
+            },
+            {
+                "stop": "Doqqa Square",
+                "neighbourhood": "Giza"
+            },
+            {
+                "stop": "Tahrir Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Ghamra"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Saleh Salem",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Rabaa Square",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Top of Abbas al-Aaqad Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Makram Abeed Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Serag City Mall",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Tenth District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Zahra’ Nasr City",
+                "neighbourhood": "Zahra’ Nasr City"
+            }
+        ]
+    },
+    {
+        "number": "125",
+        "route": [
+            {
+                "stop": "Lebanon Square",
+                "neighbourhood": "Mohandiseen"
+            },
+            {
+                "stop": "Ahmed Oraby Street",
+                "neighbourhood": "Mohandiseen"
+            },
+            {
+                "stop": "26th July Street",
+                "neighbourhood": "Zamalek"
+            },
+            {
+                "stop": "Abd al-Monim Riad Square (Tahrir Bus Station)",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Railroad Club",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Rabaa Square",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Top of Abbas al-Aaqad Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Makram Abeed Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Eighth District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Tenth District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Zahra’ Nasr City",
+                "neighbourhood": "Zahra’ Nasr City"
+            }
+        ]
+    },
+    {
+        "number": "39",
+        "route": [
+            {
+                "stop": "Abd al-Monaam Riad Square (Tahrir Bus Station)",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Ghamra"
+            },
+            {
+                "stop": "Egypt & Sudan Street",
+                "neighbourhood": "Hada’eq el-Qabbah"
+            },
+            {
+                "stop": "Hada’eq el-Qabbah",
+                "neighbourhood": "Hada’eq el-Qabbah"
+            },
+            {
+                "stop": "Girls College",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Roxy",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Al-Mazah",
+                "neighbourhood": "Nasr City"
+            }
+        ]
+    },
+    {
+        "number": "117",
+        "route": [
+            {
+                "stop": "Abd al-Monaam Riad Square (Tahrir Bus Station)",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Ghamra"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Ramses Extension (Emtedad)",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Railroad Club",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Al-Wafa’ wa al-Amal District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Ahmed el-Zomor Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Rabaa Square",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Abbas al-Aaqad Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Tenth District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Zahra’ Nasr City",
+                "neighbourhood": "Zahra’ Nasr City"
+            }
+        ]
+    },
+    {
+        "number": "184",
+        "route": [
+            {
+                "stop": "Abd al-Monaam Riad Square (Tahrir Bus Station)",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Ghamra"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Saleh Salem",
+                "neighbourhood": "Saleh Salem"
+            },
+            {
+                "stop": "Cairo Fairground",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Tayaran Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Rabaa Square",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Seventh District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Enppi Company",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Tenth District",
+                "neighbourhood": "Nasr City"
+            }
+        ]
+    },
+    {
+        "number": "167",
+        "route": [
+            {
+                "stop": "Lebanon Square",
+                "neighbourhood": "Mohandiseen"
+            },
+            {
+                "stop": "Sudan Street",
+                "neighbourhood": "Mohandiseen/Kit Kat"
+            },
+            {
+                "stop": "Kit Kat",
+                "neighbourhood": "Kit Kat"
+            },
+            {
+                "stop": "26th July Street",
+                "neighbourhood": "Zamalek"
+            },
+            {
+                "stop": "Abd al-Monaam Riad Square (Tahrir)",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Ghamra"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Railroad Club",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Azhar University",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Seventh District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Sixth District",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Tenth",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Zahra’ Nasr City",
+                "neighbourhood": "Zahra’ Nasr City"
+            }
+        ]
+    },
+    {
+        "number": "85",
+        "route": [
+            {
+                "stop": "El-Shrouq Housing",
+                "neighbourhood": "Ezbet al-Hagana"
+            },
+            {
+                "stop": "Al-Ahly Club",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "City Stars Mall",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Higher Institute of Social Service",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Top of Makram Abeed Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Top of Abbas al-Aaqad Street",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Rabaa Square",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Cairo International Stadium",
+                "neighbourhood": "Nasr City"
+            },
+            {
+                "stop": "Saleh Salem",
+                "neighbourhood": "Saleh Salem"
+            },
+            {
+                "stop": "Abbaseya",
+                "neighbourhood": "Abbaseya"
+            },
+            {
+                "stop": "Ghamra",
+                "neighbourhood": "Ghamra"
+            },
+            {
+                "stop": "Ramses Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "Essaaf Square",
+                "neighbourhood": "Downtown"
+            },
+            {
+                "stop": "26th July Street",
+                "neighbourhood": "Zamalek"
+            },
+            {
+                "stop": "Balloon Theatre",
+                "neighbourhood": "Agouza"
+            },
+            {
+                "stop": "Kit Kat",
+                "neighbourhood": "Kit Kat"
+            },
+            {
+                "stop": "Waraq al-Hadar",
+                "neighbourhood": "Waraq al-Hadar"
+            }
+        ]
+    }
+]

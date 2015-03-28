@@ -1,0 +1,41 @@
+{
+    "number": "39",
+    "route": [
+        {
+            "stop": "Abd al-Monaam Riad Square (Tahrir Bus Station)",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Essaaf Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ghamra",
+            "neighbourhood": "Ghamra"
+        },
+        {
+            "stop": "Egypt & Sudan Street",
+            "neighbourhood": "Hada’eq el-Qabbah"
+        },
+        {
+            "stop": "Hada’eq el-Qabbah",
+            "neighbourhood": "Hada’eq el-Qabbah"
+        },
+        {
+            "stop": "Girls College",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Roxy",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Al-Mazah",
+            "neighbourhood": "Nasr City"
+        }
+    ]
+}

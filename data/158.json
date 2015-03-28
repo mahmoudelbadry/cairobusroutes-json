@@ -1,0 +1,49 @@
+{
+    "number": "158",
+    "route": [
+        {
+            "stop": "Abd al-Monim Riad Square (Tahrir Bus Station)",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Essaaf Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ghamra",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Abasseya",
+            "neighbourhood": "Abasseya"
+        },
+        {
+            "stop": "Ain Shams University",
+            "neighbourhood": "Ain Shams University"
+        },
+        {
+            "stop": "El-Qobba Bridge",
+            "neighbourhood": "El-Qobba Bridge"
+        },
+        {
+            "stop": "Al-Suez Bridge (Gesr al-Suez)",
+            "neighbourhood": "Ain Shams"
+        },
+        {
+            "stop": "Tagneed",
+            "neighbourhood": "Ain Shams"
+        },
+        {
+            "stop": "Elf Maskin",
+            "neighbourhood": "Ain Shams"
+        },
+        {
+            "stop": "Cairo Airport",
+            "neighbourhood": "Cairo Airport"
+        }
+    ]
+}

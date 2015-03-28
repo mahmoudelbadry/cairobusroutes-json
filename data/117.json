@@ -1,0 +1,57 @@
+{
+    "number": "117",
+    "route": [
+        {
+            "stop": "Abd al-Monaam Riad Square (Tahrir Bus Station)",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Essaaf Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ghamra",
+            "neighbourhood": "Ghamra"
+        },
+        {
+            "stop": "Abbaseya",
+            "neighbourhood": "Abbaseya"
+        },
+        {
+            "stop": "Ramses Extension (Emtedad)",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Railroad Club",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Al-Wafa’ wa al-Amal District",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Ahmed el-Zomor Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Rabaa Square",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Abbas al-Aaqad Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Tenth District",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Zahra’ Nasr City",
+            "neighbourhood": "Zahra’ Nasr City"
+        }
+    ]
+}

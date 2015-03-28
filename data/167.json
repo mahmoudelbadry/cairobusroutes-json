@@ -1,0 +1,65 @@
+{
+    "number": "167",
+    "route": [
+        {
+            "stop": "Lebanon Square",
+            "neighbourhood": "Mohandiseen"
+        },
+        {
+            "stop": "Sudan Street",
+            "neighbourhood": "Mohandiseen/Kit Kat"
+        },
+        {
+            "stop": "Kit Kat",
+            "neighbourhood": "Kit Kat"
+        },
+        {
+            "stop": "26th July Street",
+            "neighbourhood": "Zamalek"
+        },
+        {
+            "stop": "Abd al-Monaam Riad Square (Tahrir)",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Essaaf Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ghamra",
+            "neighbourhood": "Ghamra"
+        },
+        {
+            "stop": "Abbaseya",
+            "neighbourhood": "Abbaseya"
+        },
+        {
+            "stop": "Railroad Club",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Azhar University",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Seventh District",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Sixth District",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Tenth",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Zahra’ Nasr City",
+            "neighbourhood": "Zahra’ Nasr City"
+        }
+    ]
+}

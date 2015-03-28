@@ -1,0 +1,65 @@
+{
+    "number": "121",
+    "route": [
+        {
+            "stop": "Ezbet al-Hagana",
+            "neighbourhood": "Ezbet al-Hagana"
+        },
+        {
+            "stop": "al-Ahly Sporting Club",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Higher Institute of Social Service",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Top of Makram Abeed Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Top of Abbas al-Aaqad Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Saleh Salem Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Tayaran Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Abbaseya",
+            "neighbourhood": "Abbaseya"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Essaaf Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Abd al-Monaam Riad Square (Tahrir)",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "26th July Street",
+            "neighbourhood": "Zamalek"
+        },
+        {
+            "stop": "Sphinx Square",
+            "neighbourhood": "Mohandiseen"
+        },
+        {
+            "stop": "Gamaat al-Duwal Street",
+            "neighbourhood": "Mohandiseen"
+        },
+        {
+            "stop": "Boulaq al-Dakrour",
+            "neighbourhood": "Boulaq al-Dakrour"
+        }
+    ]
+}

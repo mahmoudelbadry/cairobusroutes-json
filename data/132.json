@@ -1,0 +1,53 @@
+{
+    "number": "132",
+    "route": [
+        {
+            "stop": "Garden City",
+            "neighbourhood": "Garden City"
+        },
+        {
+            "stop": "Tahrir Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ghamra",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Abasseya",
+            "neighbourhood": "Abasseya"
+        },
+        {
+            "stop": "Saleh Salem",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Tayaran Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Nour Khattab",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Mustafa al-Nahhas Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Eighth District",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Tenth District",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Zahra’ Nasr City",
+            "neighbourhood": "Zahra’ Nasr City"
+        }
+    ]
+}

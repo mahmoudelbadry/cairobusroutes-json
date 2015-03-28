@@ -1,0 +1,73 @@
+{
+    "number": "85",
+    "route": [
+        {
+            "stop": "El-Shrouq Housing",
+            "neighbourhood": "Ezbet al-Hagana"
+        },
+        {
+            "stop": "Al-Ahly Club",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "City Stars Mall",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Higher Institute of Social Service",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Top of Makram Abeed Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Top of Abbas al-Aaqad Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Rabaa Square",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Cairo International Stadium",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Saleh Salem",
+            "neighbourhood": "Saleh Salem"
+        },
+        {
+            "stop": "Abbaseya",
+            "neighbourhood": "Abbaseya"
+        },
+        {
+            "stop": "Ghamra",
+            "neighbourhood": "Ghamra"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Essaaf Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "26th July Street",
+            "neighbourhood": "Zamalek"
+        },
+        {
+            "stop": "Balloon Theatre",
+            "neighbourhood": "Agouza"
+        },
+        {
+            "stop": "Kit Kat",
+            "neighbourhood": "Kit Kat"
+        },
+        {
+            "stop": "Waraq al-Hadar",
+            "neighbourhood": "Waraq al-Hadar"
+        }
+    ]
+}

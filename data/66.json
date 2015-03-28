@@ -1,0 +1,53 @@
+{
+    "number": "66",
+    "route": [
+        {
+            "stop": "Eighth District",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Mustafa al-Nahhas Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "El Manhal",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Rabaa Square",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Saleh Salim Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Abbaseya",
+            "neighbourhood": "Abbaseya"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Essaaf Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Abd al-Monaam Riad Square (Tahrir)",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "26th July Street",
+            "neighbourhood": "Zamalek"
+        },
+        {
+            "stop": "Kit Kat",
+            "neighbourhood": "Kit Kat"
+        },
+        {
+            "stop": "Student City",
+            "neighbourhood": "Student City"
+        }
+    ]
+}

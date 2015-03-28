@@ -1,0 +1,73 @@
+{
+    "number": "25",
+    "route": [
+        {
+            "stop": "El-Shrouq Housing",
+            "neighbourhood": "Ezbet al-Hagana"
+        },
+        {
+            "stop": "al-Ahly Sporting Club",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Ahmed Fakhry",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Top of Makram Abeed Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Top of Abbas al-Aaqad Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Rabaa Square",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Railroad Club",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Abbaseya",
+            "neighbourhood": "Abbaseya"
+        },
+        {
+            "stop": "Ghamra",
+            "neighbourhood": "Ghamra"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Essaaf Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Tahrir Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Qasr el-Nile Bridge",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Opera",
+            "neighbourhood": "Gezira"
+        },
+        {
+            "stop": "Galaa Square",
+            "neighbourhood": "Dokki"
+        },
+        {
+            "stop": "Sheraton Hotel",
+            "neighbourhood": "Dokki"
+        },
+        {
+            "stop": "Giza Zoo",
+            "neighbourhood": "Giza"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "number": "381",
+    "route": [
+        {
+            "stop": "Imbaba",
+            "neighbourhood": "Imbaba"
+        },
+        {
+            "stop": "Kit Kat",
+            "neighbourhood": "Kit Kat"
+        },
+        {
+            "stop": "26th July Street",
+            "neighbourhood": "Zamalek"
+        },
+        {
+            "stop": "Ramses Square",
+            "neighbourhood": "Downtown"
+        },
+        {
+            "stop": "Ghamra",
+            "neighbourhood": "Ghamra"
+        },
+        {
+            "stop": "Abbaseya",
+            "neighbourhood": "Abbaseya"
+        },
+        {
+            "stop": "Central Auditing Organisation",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Saleh Salem Street",
+            "neighbourhood": "Nasr City"
+        },
+        {
+            "stop": "Baron Palace",
+            "neighbourhood": "Heliopolis"
+        },
+        {
+            "stop": "Cairo Airport",
+            "neighbourhood": "Cairo Airport"
+        }
+    ]
+}
